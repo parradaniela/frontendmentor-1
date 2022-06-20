@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://parradaniela.github.io/frontendmentor-1/
 
 ## My process
 
@@ -47,4 +46,3 @@ I don't like the way I wrote the purple overlay as an empty div over the image, 
 ## Author
 
 - Website - [Daniela Parra](https://github.com/parradaniela)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
